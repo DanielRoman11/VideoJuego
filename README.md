@@ -1,0 +1,2 @@
+# VideoJuego
+Este es un juego creado, para dar solución al reto planteado por la empresa Postobon a la Universidad Ean. La pregunta reto es la siguiente: ¿Cómo podemos estimular la separación en la fuente de residuos aprovechables en los consumidores a fin de aportar a la reducción del impacto ambiental asociado a su consumo para que la cadena de gestión de residuos disponga de material?  Para dar solución a este reto plantemos una solución pedagógica que se adaptará a la solución y que fuera creativa. De esta idea nacio un videojuego en 2D.
